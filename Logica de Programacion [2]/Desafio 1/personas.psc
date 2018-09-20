@@ -7,7 +7,7 @@ Algoritmo personas
 	para i=n hasta 1 Con Paso -1 hacer
 		Mostrar "Ingrese nombre: " Sin Saltar
 		leer nombre
-		mostrar "Ingrese Genero: "sin saltar
+		mostrar "Ingrese Genero M/F: "sin saltar
 		leer genero
 		si n<>1
 			mostrar "Nombre: " nombre " | " "Genero: " genero
