@@ -1,0 +1,98 @@
+div#general{
+	
+}
+
+div#header{
+	width: 1580px;
+	height: 55px;
+	background: #B2CC96;
+	margin-left: 10px;
+	margin-top: -20px;
+	margin-right: 10px;
+	color: white;
+	text-align: center;
+}
+div#nav{
+	width: 1580px;
+	height: 35px;
+	background: #BEFF77;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	color: white;
+	text-align: center;
+}
+div#aside{
+	width: 400px;
+	height: 624px;
+	background: #BEFF77;
+	margin-right: 10px;
+	margin-top: -624px;
+	float: right;
+	display: inline-block;
+}
+div#footer{
+	width: 1580px;
+	height: 30px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	background: #BEFF77;
+}
+h1{
+	padding: 10px;
+	color: black;
+	font-weight: bold;
+}
+div#section{
+	width: 450px;
+	height: 620px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border: 1px solid black;
+}
+div#section2{
+	width: 710px;
+	height: 620px;
+	margin-left: 470px;
+	margin-top: -622px;
+	border: 1px solid black;
+}
+#parrafo1{
+	text-align: justify;
+	padding: 20px;
+	margin-top: -20px;
+}
+h2{
+	text-align: center;
+}
+#parrafo2{
+	text-align: justify;
+	padding: 20px;
+	margin-top: -50px;
+}
+#parrafo3{
+	text-align: justify;
+	padding: 20px;
+	margin-top: -50px;
+}
+#parrafo4{
+	text-align: justify;
+	padding: 20px;
+	margin-top: -20px;
+}
+#parrafo5{
+	text-align: justify;
+	padding: 20px;
+	margin-top: -30px;
+}
+div#pie{
+	text-align: center;
+	color: black;
+	padding: 10px;
+}
+#navegacion{
+	text-align: center;
+	color: black;
+	padding: 10px;
+}

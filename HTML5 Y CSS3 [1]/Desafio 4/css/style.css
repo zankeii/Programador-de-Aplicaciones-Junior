@@ -1,0 +1,107 @@
+body{
+	background: #F2F2F0;
+}
+header{
+	background: #D9D9D9;
+	height: 80px;
+	margin-top: -20px;
+	border-bottom: 8px solid #162238;
+}
+
+.botones{
+	background: #707F8C;
+	display: inline-block;
+	color: white;
+	padding: 12px;
+	border-radius: 5px;
+	margin-top: 20px;
+	float: right;
+	margin-right: 5px;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+nav{
+	text-align: center;
+}
+#registro{
+	background-color: #162238;
+}
+section{
+	height: 640px;
+}
+table{
+	border-collapse: collapse;
+	border: 3px solid black;
+	margin: 100px auto;
+	text-align: center;
+	padding: 10px;
+	display: inline-block;
+	float: left;
+	margin-left: 25px;
+	font-size: 25px;
+
+}
+article{
+	margin-left: 500px;
+	margin-top: -50px;
+}
+footer{
+	background-color: #707F8C;
+	height: 40px;
+	color: white;
+	padding: 1px;
+	text-align: center;
+}
+img{
+	margin-top: -20px;
+	margin-left: 700px;
+}
+h1{
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 50px;
+}
+.inicio-sesion{
+	height: 600px;
+}
+form{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 25px;
+	border: 2px solid #162238;
+	margin-right: 300px;
+	margin-left: 300px;
+	padding: 30px;
+}
+#botones2{
+	background-color: #162238;
+	padding: 10px;
+	border-radius: 5px;
+	color:white;
+}
+.registro{
+	height: 800px;
+}
+#logo2{
+	margin-top: 2px;
+}
+#header2{
+	height: 100px;
+}
+#menu{
+	float: left;
+	display: inline;
+	font-size: 40px;
+	margin-top: 100px;
+	margin-left: -20px;
+}
+#article2{
+	text-align: center;
+}
+
+#section3{
+	height: 500px;
+}

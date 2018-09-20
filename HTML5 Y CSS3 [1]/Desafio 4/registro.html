@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Registrarse</title>
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li class="botones" id="registro"><a href="registro.html">Registrarse</a></li>
+				<li class="botones"><a href="tablas.html">Tablas</a></li>
+				<li class="botones"><a href="index.html">Iniciar Sesion</a></li>
+				
+			</ul>
+		</nav>
+		<img src="img/logo.png" style="width:160px;height:120px;"></a>
+	</header>
+	<section class="registro">
+		<h1>Registrarse</h1>
+		<form name="registro" action="" method="post">
+		<div>
+			<label for="nombre" id="botones2">Nombre</label>
+			<input type="text" name="usuario" id="usuario" maxlength="" placeholder="Ingrese nombre de usuario" class="input">
+		</div>
+		<br>
+		<div>
+			<label for="apellido" id="botones2">Apellido</label>
+			<input type="text" name="usuario" id="usuario" maxlength="" placeholder="Ingrese nombre de usuario" class="input">
+		</div>
+		<br>
+		<div>
+			<label for="cedula" id="botones2">Cedula</label>
+			<input type="text" name="clave" id="clave" placeholder="Ingrese contraseña" class="input">
+		</div>
+		<br>
+		<div>
+			<label for="email" id="botones2">Email</label>
+			<input type="text" name="usuario" id="usuario" maxlength="" placeholder="Ingrese nombre de usuario" class="input">
+		</div>
+		<br>
+		<div>
+			<label for="clave" id="botones2">Contraseña</label>
+			<input type="password" name="clave" id="clave" placeholder="Ingrese aquí su contraseña" class="input">
+		</div>
+		<br>
+		<div>
+			<label for="clave" id="botones2">Confirmar Contraseña</label>
+			<input type="password" name="clave" id="clave" placeholder="Ingrese aquí su contraseña" class="input">
+		</div>
+		<br>
+		<div>
+			<label id="botones2">Géneros</label>
+			<label>Masculino</label>
+			<input type="radio" name="genero" value="masculino">
+			<label>Femenino</label>
+			<input type="radio" name="genero" value="femenino">
+		</div>
+		<br>
+		<div>
+			<label id="botones2">Nivel de educacion</label>
+			<select>
+				<option hidden value="0">Selecciones su nivel de educacion</option>
+				<option value="Primaria">Primaria</option>
+				<option value="Secundaria">Secundaria</option>
+				<option value="Universitario">Universitario</option>
+				<option value="Maestria">Maestria</option>
+				<option value="Doctorado">Doctorado</option>
+			</select>
+			
+		</div>
+		<br>
+		<input type="reset" name="reset" value="Limpiar" id="botones2">
+		<input type="submit" name="enviar" value="Enviar" id="botones2">
+		</form>
+	</section>
+	<footer>
+		<p>Todos los derechos reservados &copy; Miguel Yustiz</p>
+	</footer>
+</body>
+</html>

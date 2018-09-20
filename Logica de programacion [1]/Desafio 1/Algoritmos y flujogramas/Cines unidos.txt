@@ -1,0 +1,25 @@
+1.Verificar si hay internet
+2.Encender la pc
+3.Introducir usuario y contraseña si es necesario para entrar a windows
+4.Abrir el explorador de preferencia
+5.Escribir en google cines unidos
+6.Abrir la pagina de cines unidos
+7.Colocar cursor sobre Mi cuenta
+8.Si se tiene cuenta hacer click en iniciar sesion
+9.Luego introducir usuario y contraseña
+10.Si no hacer click en crear cuenta y crearla 
+11.Seleccionar ciudad
+12.Seleccnionar cine
+13.Seleccionar hora de la pelicula
+14.Verificar disponibilidad de asientos
+15.Seleccionar cantidad de boletos
+16.Click en continuar
+17.Seleccionar asientos
+18.Click en realizar pago
+19.Introducir datos de tarjeta de credito
+20.Introducir datos personales
+21.Click en casilla de aceptar politicas
+22.Click en realizar pago
+23.Revisar Comprobante
+24.Cerrar sesion
+25.Cerrar el explorador
