@@ -1,0 +1,9 @@
+COLORES:
+ - morado: rgb(131,96,195)
+ - verde: rgb(46,191,145)
+ - amarillo: #fff77c
+ - gris de fondo: #ECEFF1
+ - sombra: rgb(144,164,174)
+
+Tipografía Lato (disponible en Google Fonts)
+ 

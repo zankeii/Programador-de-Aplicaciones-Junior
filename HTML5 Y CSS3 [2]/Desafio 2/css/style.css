@@ -1,0 +1,28 @@
+*{ padding: 0;
+    margin: 0;
+    border: 0;}
+.grande{width: 300px;
+    height: 300px;}
+.pequeño{width: 40px;
+    height: 40px;
+    background: #f95b34;
+    position: relative;
+    left: 125px;
+    top: 125px;}
+#a-i{background: #ee3e64;
+    z-index: 2;
+    position: relative;}
+#a-d{background: #44accf;
+    float: right;
+    margin-top: -300px;
+    position: relative;
+    z-index: 1;}
+#d-i{background: #b7d84b;
+    margin-top: 227px;
+    position: relative;
+    z-index: 3;}
+#d-d{background: #ebde52;
+    float: right;
+    margin-top: -300px;
+    position: relative;
+    z-index: 4;}

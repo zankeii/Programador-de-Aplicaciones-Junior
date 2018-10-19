@@ -1,0 +1,24 @@
+
+
+body{
+	text-align: center;
+}
+
+.imagen-efecto{
+	width: 30%;
+	margin: 100px 0;
+	border-radius: 20px;
+	box-shadow: 0 0 30px rgba(0,0,0,.8);
+	/* box-shadow: ejeX ejeY Difuminado color; */
+}
+.caja{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	margin: 100px auto;
+	box-shadow: inset 0 0 30px orange;
+}
+
+h1{
+	text-shadow: 15px 15px 10px yellow;
+}
